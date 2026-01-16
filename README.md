@@ -9,52 +9,59 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35"/> About Me
 
 I'm a **42 School Porto** student passionate about **low-level programming**, **systems development**, **artificial intelligence** and **cyber-security pen testing**. Currently navigating through the Common Core curriculum, mastering C and Python exploring the beautiful world of computer science fundamentals.
 
-- 🎓 **42 School Porto** - Common Core (Circle 2)
-- 🧠 Learning **algorithms**, **data structures**, and **memory management**
-- 🌱 Exploring **graphics programming** and **artificial intelligence**
+🎓 **42 School Porto** - Common Core (Circle 2)  
+🧠 Learning **algorithms**, **data structures**, and **memory management**  
+🌱 Exploring **graphics programming** and **artificial intelligence**
 
-<br clear="right"/>
-
----
-
-#### 🎓 Education & Training (Past and ongoing)
-- **Escola Profissional Ruiz Costa** - Programming and System Management Professional Course
-- **42 School Porto** - Common Core (Circle 2)
-- **Harvard CS50** - Introduction to Computer Science
-- **The Odin Project** - Full-Stack JavaScript Course
-- **HackTheBox** - Pentesting Training (CPTS Track)
-
-#### 💻 Current Focus
-- 🌐 Full-stack web development with JavaScript
-- 🔐 Offensive security & penetration testing
-- 🤖 Artificial intelligence & machine learning
-- 🎓 Completing CS50's problem sets and projects
-
-#### 🧠 Learning Journey
-- **Systems Programming:** C, algorithms, data structures, memory management
-- **Web Development:** HTML, CSS, JavaScript, Node.js, React
-- **Security:** Network pentesting, web app security, exploit development
-- **AI/ML:** Python, neural networks, data science
-- **Graphics:** MiniLibX, rendering engines, computer graphics
-
-#### 🎯 2026 Goals
-- 🏆 Complete 42 Common Core curriculum
-- 📜 Obtain **CPTS (Certified Penetration Testing Specialist)** certification
-- 🎓 Finish **Harvard CS50**
-- 🔐 Contribute to security research and bug bounty programs
-
-<br clear="right"/>
+</div>
 
 ---
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> Tech Stack & Tools
 
 <div align="center">
+  
+#### 🎓 Education & Training (Past and ongoing)
+
+**Escola Profissional Ruiz Costa** - Programming and System Management Professional Course  
+**42 School Porto** - Common Core (Circle 2)  
+**Harvard CS50** - Introduction to Computer Science  
+**The Odin Project** - Full-Stack JavaScript Course  
+**HackTheBox** - Pentesting Training (CPTS Track)
+
+#### 💻 Current Focus
+
+🌐 Full-stack web development with JavaScript  
+🔐 Offensive security & penetration testing  
+🤖 Artificial intelligence & machine learning  
+🎓 Completing CS50's problem sets and projects
+
+#### 🧠 Learning Journey
+
+**Systems Programming:** C, algorithms, data structures, memory management  
+**Web Development:** HTML, CSS, JavaScript, Node.js, React  
+**Security:** Network pentesting, web app security, exploit development  
+**AI/ML:** Python, neural networks, data science  
+**Graphics:** MiniLibX, rendering engines, computer graphics
+
+#### 🎯 2026 Goals
+
+🏆 Complete 42 Common Core curriculum  
+📜 Obtain **CPTS (Certified Penetration Testing Specialist)** certification  
+🎓 Finish **Harvard CS50**  
+🔐 Contribute to security research and bug bounty programs
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> Tech Stack & Tools
 
 #### 🎯 42 School Projects Stack
 
@@ -98,6 +105,8 @@ I'm a **42 School Porto** student passionate about **low-level programming**, **
 
 ---
 
+<div align="center">
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> 42 Projects Progress
 
 <details open>
@@ -127,13 +136,13 @@ I'm a **42 School Porto** student passionate about **low-level programming**, **
 
 </details>
 
+</div>
+
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Stats
-
-
-
 <div align="center">
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=404NotAFriend&theme=tokyonight)
 
@@ -141,9 +150,9 @@ I'm a **42 School Porto** student passionate about **low-level programming**, **
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30"/> Coding Activity
-
 <div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30"/> Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -153,6 +162,8 @@ I'm a **42 School Porto** student passionate about **low-level programming**, **
 </div>
 
 ---
+
+<div align="center">
 
 ### 🎯 42 School Skills Matrix
 
@@ -176,11 +187,13 @@ const skills = {
 };
 ```
 
+</div>
+
 ---
 
-### 🎨 Featured Project: so_long
-
 <div align="center">
+
+### 🎨 Featured Project: so_long
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="50"/>
 
@@ -226,9 +239,9 @@ const skills = {
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Currently Working On
-
 <div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Currently Working On
 
 ```c
 while (learning) {
@@ -242,18 +255,18 @@ while (learning) {
 }
 ```
 
-</div>
+🎯 Optimizing **push_swap** sorting algorithms  
+📚 Deep diving into **data structures**  
+🧠 Mastering **memory management** patterns  
+🎨 Exploring **computer graphics** concepts
 
-- 🎯 Optimizing **push_swap** sorting algorithms
-- 📚 Deep diving into **data structures**
-- 🧠 Mastering **memory management** patterns
-- 🎨 Exploring **computer graphics** concepts
+</div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"/> Development Setup
-
 <div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"/> Development Setup
 
 | Component | Spec |
 |-----------|------|
@@ -268,6 +281,8 @@ while (learning) {
 
 ---
 
+<div align="center">
+
 ### 📊 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
@@ -279,11 +294,13 @@ Markdown      1 hr 10 mins   █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+</div>
+
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="30"/> Connect With Me
-
 <div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="30"/> Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunodrcgomes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetbrunogomes/)
@@ -295,9 +312,9 @@ Markdown      1 hr 10 mins   █░░░░░░░░░░░░░░░░
 
 ---
 
-### 🎓 42 Network Journey
-
 <div align="center">
+
+### 🎓 42 Network Journey
 
 ```ascii
 ┌─────────────────────────────────────────┐
@@ -320,9 +337,9 @@ Markdown      1 hr 10 mins   █░░░░░░░░░░░░░░░░
 
 ---
 
-### 💡 Fun Facts
-
 <div align="center">
+
+### 💡 Fun Facts
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="20"/> **I debug code in my dreams**
 
@@ -338,9 +355,9 @@ Markdown      1 hr 10 mins   █░░░░░░░░░░░░░░░░
 
 ---
 
-### 🏆 Coding Philosophy
-
 <div align="center">
+
+### 🏆 Coding Philosophy
 
 > *"First, solve the problem. Then, write the code."*  
 > — John Johnson
