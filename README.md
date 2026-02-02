@@ -116,7 +116,6 @@ I'm a **42 School Porto** student passionate about **low-level programming**, **
 
 | Project | Status | Score | Description |
 |---------|--------|-------|-------------|
-| **push_swap** | 🔄 In Progress | - | Sorting algorithm optimization |
 | **pipex** | 🔄 In Progress | - | Piping in Shell |
 
 </details>
@@ -133,6 +132,7 @@ I'm a **42 School Porto** student passionate about **low-level programming**, **
 | **get_next_line** | ✅ Complete | 125/125 | File I/O, static variables |
 | **Born2beroot** | ✅ Complete | 125/125 | System administration, virtualization |
 | **so_long** | ✅ Complete | 125/125 | 2D game engine with bonus features |
+| **push_swap** | ✅ Complete | 125/125 | Sorting algorithm optimization |
 
 </details>
 
